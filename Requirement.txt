@@ -1,0 +1,11 @@
+python
+numpy
+pandas
+matplotlib
+seaborn
+svm
+maive bias
+logistic regression
+KNN
+KMeans
+sklearn(strongly)
